@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hrishav11
-- 👀 I’m interested in ...website design and development
+- 👀 I’m interested in ...website design and development, UI/UX development
 - 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...no collab as of yet 
-- 📫 How to reach me ...NA
+- 💞️ I’m looking to collaborate on ...web development
+- 📫 How to reach me ...hrishav.banerjee19@stu.srmuniversity.ac.in
 
 <!---
 hrishav11/hrishav11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrishav11
+- 👋 Hi, I’m Hrishav Banerjee, I am currently pursuing a master's degree in AI from Dublin City University (Dublin, Ireland)
 - 👀 I’m interested in ...data analytics and machine learning
 - 🌱 I’m currently learning ...Machine learning, data analytics and statistical analysis
 - 💞️ I’m looking to collaborate on ...data analytics and machine learning projects
